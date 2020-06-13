@@ -8,3 +8,5 @@ basically is a Jukebox for Kids (http://phoniebox.de/)
 
 The PCB can be stacked to a RaspberryPi and offers interfaces connect Buttons,
 LEDs, a I2C Display and an OnOffShim. 
+
+Current version is: 0.3, release 2020-06-13
